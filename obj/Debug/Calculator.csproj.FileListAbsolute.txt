@@ -1,0 +1,11 @@
+D:\2nd Semester\Week 9\Calculator\bin\Debug\Calculator.exe.config
+D:\2nd Semester\Week 9\Calculator\bin\Debug\Calculator.exe
+D:\2nd Semester\Week 9\Calculator\bin\Debug\Calculator.pdb
+D:\2nd Semester\Week 9\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\2nd Semester\Week 9\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+D:\2nd Semester\Week 9\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\2nd Semester\Week 9\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\2nd Semester\Week 9\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\2nd Semester\Week 9\Calculator\obj\Debug\Calculator.exe
+D:\2nd Semester\Week 9\Calculator\obj\Debug\Calculator.pdb
+D:\2nd Semester\Week 9\Calculator\obj\Debug\Calculator.CalculatorForm.resources
